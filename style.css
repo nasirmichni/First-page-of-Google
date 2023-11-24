@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    min-height: 1 0 auto;
+}
+.container{
+    text-align: center;
+    margin-top: 10rem;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.blue{
+    color: #0000ff;
+    font-size:100px ;
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.yellow{
+    color: yellow;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.green{
+    color: green;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+input{
+    padding: 15px 80px 15px 25px;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-top: 20px;
+    width: 50%;
+    border-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
